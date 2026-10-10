@@ -19,9 +19,6 @@ In my spare time I run a homelab that's gotten a bit out of hand.
 | [Homelabrrr](https://github.com/jonarihen/Homelabrrr) | Self-service homelab portal for Proxmox and FortiGate: VM/LXC access, browser VNC/SSH, VLANs and firewall policies |
 | [caddy-forticertsync](https://github.com/jonarihen/caddy-forticertsync) | Caddy plugin that pushes renewed TLS certificates to FortiGate firewalls through the FortiOS REST API |
 | [tools-platform](https://github.com/jonarihen/tools-platform) | [tools.aaris.tech](https://tools.aaris.tech): self-hosted web utilities built with Flask, Nginx and Docker |
-| [TTSRoad-App](https://github.com/jonarihen/TTSRoad-App) | Android client for TTSRoad, a self-hosted server that turns web serials into text-to-speech audiobooks |
-| [TTSRoad-Desktop](https://github.com/jonarihen/TTSRoad-Desktop) | Native desktop client for TTSRoad, built with Compose Multiplatform |
-| [muffin-shift-snap-fix](https://github.com/jonarihen/muffin-shift-snap-fix) | Fixes Shift edge-snapping in Cinnamon's Muffin so it works with FancyTiles |
 
 #### Certifications
 
